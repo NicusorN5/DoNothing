@@ -39,3 +39,9 @@
 *.\Debug\
 *.\Release\
 *.log
+*.vsidx
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
