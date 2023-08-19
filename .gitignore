@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+*.tlog
+*.pdb
+*.ilk
+*.recipe
+*.txt
+*.\Debug\
+*.\Release\
+*.log
